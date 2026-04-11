@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Lawton, Oklahoma. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Lawton, Oklahoma, US",
+  "export_job_id": "bb883bd2-21c3-410a-a123-a9dfb2603fa4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 309999,
+  "location_name": "Lawton",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lawton-oklahoma-us-sample-309999",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/309999/beamstation_309999_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_pct": 9.26,
+  "sample_records": 25,
+  "sample_sha256": "b6efadf07ec0bde447748ac5b9d2f9cb98d10c4fa411c79250a4a2b2860e3660",
+  "sample_size_bytes": 112606,
+  "total_records": 270,
+  "updated_at": "2026-03-31T14:02:04.429973+00:00"
+}
