@@ -1,6 +1,6 @@
 # All Restaurants in Lawton, Oklahoma, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `309999` |
 | Location | Lawton |
 | Category | Restaurants |
-| Full dataset size | 270 records |
-| Free sample size | 25 records (9.26%) |
-| Last export | 2026-03-31T14:02:04.429973+00:00 |
+| Full dataset size | 286 records |
+| Free sample size | 28 records (9.79%) |
+| Last export | 2026-04-14T14:26:05.393153+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lawton-oklahoma-us-sample-309999/releases/download/sample-latest/beamstation_309999_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
