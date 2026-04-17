@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bb883bd2-21c3-410a-a123-a9dfb2603fa4",
+  "export_job_id": "7082a107-2de6-4f19-a009-f3c7282b8bb0",
   "id_short": 309999,
-  "published_at": "2026-04-11T07:24:29Z",
+  "published_at": "2026-04-17T19:17:00Z",
   "repo_name": "all-restaurants-in-lawton-oklahoma-us-sample-309999",
   "sample_asset_name": "beamstation_309999_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/309999/beamstation_309999_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "b6efadf07ec0bde447748ac5b9d2f9cb98d10c4fa411c79250a4a2b2860e3660",
-  "sample_size_bytes": 112606,
-  "total_records": 270
+  "sample_records": 28,
+  "sample_sha256": "c209d6063434f400285c8018c82d3ebe0c41b00c295ad7d6a8203ef81b0db09d",
+  "sample_size_bytes": 111415,
+  "total_records": 286
 }
